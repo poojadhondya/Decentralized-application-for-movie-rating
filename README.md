@@ -1,0 +1,2 @@
+# Decentralized-application-for-movie-rating
+This smart contract is about rating a movie. . This smart contract is compiled on Remix – Ethereum IDE and deployed on both JavaScript VM and Ropsten Test Network in MetaMask platforms. The compiler version used is 0.5.1+commit.c8a2cb62. One thing to be taken care while running this program is that you will have to enter the name of the movies in inverted commas.
